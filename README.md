@@ -8,6 +8,6 @@ Spring (Dependency Management), Spring Security (Authentication and Authorizatio
 BootStrap (Styling Pages), Maven (dependencies management),
 Node (npm), Visual Studio Code (JavaScript IDE), IntelliJ (Java IDE) and Tomcat Embedded Web Server.
 
-### **_Short video for my app_**
+### **_Short video for my Todo Management Application_**
 ---
 ![Full-Stack](https://user-images.githubusercontent.com/49817134/197610529-28fe006b-deaa-4ac0-92ee-f1d0ace18cc7.gif)
