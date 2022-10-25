@@ -2,7 +2,6 @@
 Basic Todo Management Application using React, Spring Boot and Spring Security Frameworks.
 
 ### **_Tools & Frameworks used in the project_**
----
 * React (Frontend View Framework)
 * React Create App(To create React project)
 * Various JavaScript Libraries (Axios, Formik, React Router)
